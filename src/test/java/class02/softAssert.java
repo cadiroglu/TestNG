@@ -52,7 +52,7 @@ public class softAssert {
 
 //        call soft assertion
         soft.assertTrue(disp);
-
+//      this is a must to do in soft Assert
         soft.assertAll();
 
 
